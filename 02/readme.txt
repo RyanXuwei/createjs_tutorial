@@ -1,0 +1,1 @@
+Uncaught An error has occurred. This is most likely due to security restrictions on reading canvas pixel data with local or cross-domain images.
